@@ -1,14 +1,11 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:8
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:21457
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-PROGRAM-DATE-TIME:2023-06-07T03:56:28Z
-#EXTINF:7.920,
-http://line.greatstar.me/play/live.php?mac=00:1A:79:8d:08:8c&stream=1104672&extension=ts&play_token=0zWtde9fUG
-#EXTINF:8.000,
-http://line.greatstar.me/play/live.php?mac=00:1A:79:8d:08:8c&stream=1104672&extension=ts&play_token=0zWtde9fUG
-#EXTINF:8.000,
-http://line.greatstar.me/play/live.php?mac=00:1A:79:8d:08:8c&stream=1104672&extension=ts&play_token=0zWtde9fUG
-#EXTINF:8.000,
-http://line.greatstar.me/play/live.php?mac=00:1A:79:8d:08:8c&stream=1104672&extension=ts&play_token=0zWtde9fUG
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0;url=intent:https://toxicify.pro/peace/kfc/24.mpd?%7CdrmScheme=clearkey&drmLicense=e16192ae327c554a8f73a5bcc3bfbd6f:1b52f561f3636356824a62034bbb2d39#Intent;package=com.genuine.leone;end">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>If you are not redirected, <a href="intent:https://toxicify.pro/peace/kfc/24.mpd?%7CdrmScheme=clearkey&drmLicense=e16192ae327c554a8f73a5bcc3bfbd6f:1b52f561f3636356824a62034bbb2d39#Intent;package=com.genuine.leone;end">click here</a>.</p>
+</body>
+</html
